@@ -50,15 +50,15 @@ while restart == 1:
   
     
   
-    print("Question 2: \n")
-    print("a: ")
-    print("b: ")
-    print("c: ")
-    print("d: \n")
+    print("Question 2:The first African American to play NBA games was? \n")
+    print("a:Boston Celtics ")
+    print("b:Miami Heat ")
+    print("c:Earl Lloyd ")
+    print("d:Toronto Raptors \n")
   
    
     response = input("What is your answer to this question?\n")
-    if response == "b":
+    if response == "c":
       print("Correct, here have a point")
       score += 2
     else:
@@ -68,15 +68,15 @@ while restart == 1:
   
     
   
-    print("Question 3: How long is Ninety Mile beach in Northland?\n")
-    print("a: 85 Miles")
-    print("b: 90 Miles")
-    print("c: 91 Miles")
-    print("d: 55 Miles\n")
+    print("Question 3:different variety of shots in basketball are what? \n")
+    print("a: 15 feet")
+    print("b: 10 feet")
+    print("c: 13 feet")
+    print("d: 12 feet\n")
   
    
     response = input("What is your answer to this question?\n")
-    if response == "d":
+    if response == "b":
       print("Correct, good job")
       score += 2
     else:
@@ -85,11 +85,11 @@ while restart == 1:
     print("your score is {}\n".format(score))
   
     
-    print("Question 4: Where is the famous landmark L&P from?\n")
-    print("a: Hamilton ")
+    print("Question 4: who is the most famous basketball league? \n")
+    print("a: Stephen Curry ")
     print("b: Lemon ")
-    print("c: Paeroa")
-    print("d: Tauranga\n")
+    print("c: Shaquille O'Neal")
+    print("d: James Naismith \n")
   
     
     response = input("What is your answer to this question?\n")
