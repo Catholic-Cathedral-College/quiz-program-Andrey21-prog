@@ -104,15 +104,15 @@ while restart == 1:
   
    
   
-    print("Question 5: What is rarity is the grenade launcher in Fortnite?\n")
-    print("a: Rare")
-    print("b: Epic")
-    print("c: Common and Rare")
-    print("d: Epic and Legendary\n")
+    print("Question 5:In NBA season 2017 2018 who was the most valuable player \n")
+    print("a: Steve Kerr")
+    print("b: Magic Johnson")
+    print("c:Chris Paul")
+    print("d: Larry Bird\n")
   
    
     response = input("What is your answer to this question?\n")
-    if response == "d" or response == "a":
+    if response == "a" or response == "a":
       print("Correct, continue with the streak")
       score += 2
     else:
