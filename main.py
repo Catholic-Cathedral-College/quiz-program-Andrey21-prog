@@ -112,8 +112,9 @@ while restart == 1:
       print("sorry incorrect, don't get upset always can get free points for a next level")
     score -= 1
     print("your score is {}\n\n".format(score))
-  
-  
+   
+   
+    
     level_2 = input("You have reached level 2, do you wish to continue or exit?\n")
     if level_2 == "continue" or level_2 == "yes":
       print ('have 2 free points for keeping up\n!')
@@ -201,8 +202,8 @@ while restart == 1:
         print('Wow amazing performance try this bonus question!\n\n')
   
       if score>8 :
-        print('Bonus Question: What is the abbreviation of our school?')
-        print('a: Papa High')
+        print('Bonus Question: MVP of 2018 NBA final was?')
+        print('a: Cleveland Cavaliers')
         print("b: Papatoetoe High School")
         print("c: PHS")
         print("d: None of the above\n")
@@ -325,6 +326,7 @@ while restart == 1:
         restart = 0
         exit()
   
+
 
 
 
