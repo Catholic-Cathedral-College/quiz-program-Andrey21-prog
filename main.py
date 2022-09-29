@@ -33,10 +33,10 @@ while restart == 1:
   if user_level_choice == 'level 1':
     # Start of question 1
     print("Question 1: The number of players in a court from 1 team??\n")
-    print("Players 12")
+    print("a: Players 12")
     print("b: Players 9")
     print("c: Players 5")
-    print("d:  Players 1")
+    print("d: Players 1")
  
     # Code defining whether player's input is right or wrong for question 1 and if right he gets a point else loses 1 point
     response = input("What is your answer to this question?\n")
@@ -51,7 +51,7 @@ while restart == 1:
     # Start of question 2
  
     print("Question 2: The first African American to play NBA games was?\n")
-    print("a:Boston Celtics")
+    print("a: Boston Celtics")
     print("b: Miami Heat")
     print("c: Earl Lloyd")
     print("d: Toronto Raptors")
@@ -87,7 +87,7 @@ while restart == 1:
     # Start of question 4`
  
     print("Question 4: who is the most famous basketball league")
-    print("a:  Stephen Curry")
+    print("a: Stephen Curry")
     print("b: Lemon ")
     print("c: Shaquille O'Neal")
     print("d: James Naismith")
@@ -110,7 +110,7 @@ while restart == 1:
     print("a: Steve Kerr")
     print("b: Magic Johnson")
     print("c: Chris Paul")
-    print("d:  Larry Bird")
+    print("d: Larry Bird")
 
  # Code defining whether player's input is right or wrong for question 4 and if right he gets a point else loses 1 point
     
@@ -153,7 +153,7 @@ while restart == 1:
  
       print("Question 7:Who made basketball?\n")
       print("a: James Naismith")
-      print("b:  William Morgan")
+      print("b: William Morgan")
       print("c: Jim Thorpe")
  
       response = input("What is your answer to this question?\n")
